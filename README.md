@@ -4,9 +4,4 @@ Hi! I'm a Data Science major at Colby College, minoring in Mathematics and Envir
 
 This repository contains my most recent resume in PDF format.
 
----
-
-## 🔗 Links
-
-- [`Resume 2025.pdf`](./Resume 2025.pdf)
 - [LinkedIn](https://www.linkedin.com/in/jane-maguire-9624b8291/)
