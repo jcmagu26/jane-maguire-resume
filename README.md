@@ -8,4 +8,5 @@ This repository contains my most recent resume in PDF format.
 
 ## 🔗 Links
 
+- [`resume.pdf`](./resume.pdf) – Most recent version
 - [LinkedIn](https://www.linkedin.com/in/jane-maguire-9624b8291/)
